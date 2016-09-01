@@ -1,0 +1,15 @@
+{
+  "name": "angular-backendless",
+  "version": "1.0.0",
+  "description": "Mock RESTApi calls for angular development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth Creswell",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kenneth-Creswell/angular-backendless"
+  }
+}
